@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>By NITHIN JOHN  </h3>
+			<h3>By NITHIN JOHN GEORGE  </h3>
 		</div>	
 	</div>
 
